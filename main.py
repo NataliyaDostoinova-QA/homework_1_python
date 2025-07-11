@@ -1,3 +1,4 @@
 n = 42
-massege = "Это прото число:"
-print(massege, n)
+a = 24
+massege = "Это прото числf:"
+print(massege, n, a)
